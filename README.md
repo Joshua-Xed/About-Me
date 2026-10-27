@@ -1,1 +1,11 @@
 # About-Me
+
+**FRONTEND**
+
+
+
+
+
+
+
+**BACKEND**
